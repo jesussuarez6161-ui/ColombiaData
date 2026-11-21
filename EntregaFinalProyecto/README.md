@@ -204,12 +204,8 @@ Se incluirán:
 - Ejemplo de la respuesta JSON de la API.
 
 ## 14. Integrantes y responsabilidades
-
-**Integrante 1:** [Nombre] – API y obtención de datos.
-
-**Integrante 2:** [Nombre] – SQL Server y modelo.
-
-**Integrante 3:** [Nombre] – Controlador, vista y pruebas.
+Jesus David Suarez Melendres 
+Juan David Alvarez  Fontalvo
 
 ## 15. Conclusiones
 
