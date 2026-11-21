@@ -205,6 +205,7 @@ Se incluirán:
 
 ## 14. Integrantes y responsabilidades
 Jesus David Suarez Melendres 
+
 Juan David Alvarez  Fontalvo
 
 ## 15. Conclusiones
